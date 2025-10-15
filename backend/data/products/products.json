@@ -1,0 +1,595 @@
+[
+  {
+    "id": "p001",
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "images": [
+      {"file": "c1_1.jpeg", "price": "499"},
+      {"file": "c1_2.jpeg", "price": "549"},
+      {"file": "c1_3.jpeg", "price": "499"},
+      {"file": "c1_4.jpeg", "price": "599"}
+    ],
+    "tags": ["t-shirt", "casual", "tee", "short-sleeve"]
+  },
+  {
+    "id": "p002",
+    "name": "Hoodie",
+    "category": "Clothing",
+    "images": [
+      {"file": "c2_1.jpeg", "price": "899"},
+      {"file": "c2_2.jpeg", "price": "949"},
+      {"file": "c2_3.jpeg", "price": "899"},
+      {"file": "c2_4.jpeg", "price": "999"}
+    ],
+    "tags": ["hoodie", "sweatshirt", "casual", "hooded"]
+  },
+  {
+    "id": "p003",
+    "name": "Jeans",
+    "category": "Clothing",
+    "images": [
+      {"file": "c3_1.jpeg", "price": "1299"},
+      {"file": "c3_2.jpeg", "price": "1349"},
+      {"file": "c3_3.jpeg", "price": "1399"},
+      {"file": "c3_4.jpeg", "price": "1249"}
+    ],
+    "tags": ["jeans", "denim", "pants", "casual"]
+  },
+  {
+    "id": "p004",
+    "name": "Shirt",
+    "category": "Clothing",
+    "images": [
+      {"file": "c4_1.jpeg", "price": "699"},
+      {"file": "c4_2.jpeg", "price": "749"},
+      {"file": "c4_3.jpeg", "price": "799"}
+    ],
+    "tags": ["shirt", "formal", "button-down", "long-sleeve"]
+  },
+  {
+    "id": "p005",
+    "name": "Floral Summer Dress",
+    "category": "Clothing",
+    "images": [
+      {"file": "c5_1.jpeg", "price": "1499"},
+      {"file": "c5_2.jpeg", "price": "1599"},
+      {"file": "c5_3.jpeg", "price": "1399"},
+      {"file": "c5_4.jpeg", "price": "1499"}
+    ],
+    "tags": ["dress", "floral", "summer", "women"]
+  },
+  {
+    "id": "p006",
+    "name": "Denim Jacket",
+    "category": "Clothing",
+    "images": [
+      {"file": "c6_1.jpeg", "price": "1699"},
+      {"file": "c6_2.jpeg", "price": "1799"},
+      {"file": "c6_3.jpeg", "price": "1599"}
+    ],
+    "tags": ["denim", "jacket", "outerwear", "casual"]
+  },
+  {
+    "id": "p007",
+    "name": "Shorts",
+    "category": "Clothing",
+    "images": [
+      {"file": "c7_1.jpeg", "price": "599"},
+      {"file": "c7_2.jpeg", "price": "649"},
+      {"file": "c7_3.jpeg", "price": "549"}
+    ],
+    "tags": ["shorts", "sports", "casual", "summer"]
+  },
+  {
+    "id": "p008",
+    "name": "Polo Shirt",
+    "category": "Clothing",
+    "images": [
+      {"file": "c8_1.jpeg", "price": "799"},
+      {"file": "c8_2.jpeg", "price": "849"},
+      {"file": "c8_3.jpeg", "price": "899"}
+    ],
+    "tags": ["polo", "collared", "men", "casual"]
+  },
+  {
+    "id": "p009",
+    "name": "Sweater",
+    "category": "Clothing",
+    "images": [
+      {"file": "c9_1.jpeg", "price": "1399"},
+      {"file": "c9_2.jpeg", "price": "1499"},
+      {"file": "c9_3.jpeg", "price": "1299"}
+    ],
+    "tags": ["sweater", "wool", "knit", "warm"]
+  },
+  {
+    "id": "p010",
+    "name": "Leather Jacket",
+    "category": "Clothing",
+    "images": [
+      {"file": "c10_1.jpeg", "price": "2499"},
+      {"file": "c10_2.jpeg", "price": "2599"},
+      {"file": "c10_3.jpeg", "price": "2699"}
+    ],
+    "tags": ["leather", "jacket", "outerwear", "biker"]
+  },
+  {
+    "id": "p011",
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "images": [
+      {"file": "f1_1.jpeg", "price": "1199"},
+      {"file": "f1_2.jpeg", "price": "1249"},
+      {"file": "f1_3.jpeg", "price": "1299"},
+      {"file": "f1_4.jpeg", "price": "1199"}
+    ],
+    "tags": ["running", "sneakers", "sport", "athletic"]
+  },
+  {
+    "id": "p012",
+    "name": "Formal Leather Shoes",
+    "category": "Footwear",
+    "images": [
+      {"file": "f2_1.jpeg", "price": "2199"},
+      {"file": "f2_2.jpeg", "price": "2299"},
+      {"file": "f2_3.jpeg", "price": "2399"},
+      {"file": "f2_4.jpeg", "price": "2199"}
+    ],
+    "tags": ["formal", "leather", "oxford", "dress"]
+  },
+  {
+    "id": "p013",
+    "name": "White Casual Shoes",
+    "category": "Footwear",
+    "images": [
+      {"file": "f3_1.jpeg", "price": "1299"},
+      {"file": "f3_2.jpeg", "price": "1399"},
+      {"file": "f3_3.jpeg", "price": "1299"}
+    ],
+    "tags": ["casual", "white", "sneakers", "everyday"]
+  },
+  {
+    "id": "p014",
+    "name": "High Heels",
+    "category": "Footwear",
+    "images": [
+      {"file": "f4_1.jpeg", "price": "1799"},
+      {"file": "f4_2.jpeg", "price": "1899"},
+      {"file": "f4_3.jpeg", "price": "1999"}
+    ],
+    "tags": ["heels", "formal", "women", "party"]
+  },
+  {
+    "id": "p015",
+    "name": "Flip Flops",
+    "category": "Footwear",
+    "images": [
+      {"file": "f5_1.jpeg", "price": "299"},
+      {"file": "f5_2.jpeg", "price": "349"}
+    ],
+    "tags": ["flip-flops", "sandals", "beach", "casual"]
+  },
+  {
+    "id": "p016",
+    "name": "Hiking Boots",
+    "category": "Footwear",
+    "images": [
+      {"file": "f6_1.jpeg", "price": "1599"},
+      {"file": "f6_2.jpeg", "price": "1699"},
+      {"file": "f6_3.jpeg", "price": "1799"}
+    ],
+    "tags": ["hiking", "boots", "outdoor", "trail"]
+  },
+  {
+    "id": "p017",
+    "name": "Wrist Watch",
+    "category": "Accessories",
+    "images": [
+      {"file": "a1_1.jpeg", "price": "999"},
+      {"file": "a1_2.jpeg", "price": "1099"},
+      {"file": "a1_3.jpeg", "price": "999"}
+    ],
+    "tags": ["watch", "wristwatch", "accessory", "analog"]
+  },
+  {
+    "id": "p018",
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "images": [
+      {"file": "a2_1.jpeg", "price": "499"},
+      {"file": "a2_2.jpeg", "price": "599"},
+      {"file": "a2_3.jpeg", "price": "699"},
+      {"file": "a2_4.jpeg", "price": "499"}
+    ],
+    "tags": ["sunglasses", "eyewear", "polarized", "summer"]
+  },
+  {
+    "id": "p019",
+    "name": "Belt",
+    "category": "Accessories",
+    "images": [
+      {"file": "a3_1.jpeg", "price": "399"},
+      {"file": "a3_2.jpeg", "price": "449"},
+      {"file": "a3_3.jpeg", "price": "499"},
+      {"file": "a3_4.jpeg", "price": "399"}
+    ],
+    "tags": ["belt", "leather", "accessory", "waist"]
+  },
+  {
+    "id": "p020",
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "images": [
+      {"file": "a4_1.jpeg", "price": "699"},
+      {"file": "a4_2.jpeg", "price": "749"},
+      {"file": "a4_3.jpeg", "price": "799"},
+      {"file": "a4_4.jpeg", "price": "699"}
+    ],
+    "tags": ["wallet", "leather", "accessory", "cardholder"]
+  },
+  {
+    "id": "p021",
+    "name": "Hat",
+    "category": "Accessories",
+    "images": [
+      {"file": "a5_1.jpeg", "price": "299"},
+      {"file": "a5_2.jpeg", "price": "349"},
+      {"file": "a5_3.jpeg", "price": "399"},
+      {"file": "a5_4.jpeg", "price": "299"}
+    ],
+    "tags": ["hat", "cap", "headwear", "casual"]
+  },
+  {
+    "id": "p022",
+    "name": "Bracelet",
+    "category": "Accessories",
+    "images": [
+      {"file": "a6_1.jpeg", "price": "499"},
+      {"file": "a6_2.jpeg", "price": "549"},
+      {"file": "a6_3.jpeg", "price": "599"},
+      {"file": "a6_4.jpeg", "price": "499"}
+    ],
+    "tags": ["bracelet", "jewelry", "accessory", "metal"]
+  },
+  {
+    "id": "p023",
+    "name": "Laptop",
+    "category": "Electronics",
+    "images": [
+      {"file": "e1_1.jpeg", "price": "49999"},
+      {"file": "e1_2.jpeg", "price": "50999"},
+      {"file": "e1_3.jpeg", "price": "48999"},
+      {"file": "e1_4.jpeg", "price": "49999"}
+    ],
+    "tags": ["laptop", "computer", "notebook", "electronics"]
+  },
+  {
+    "id": "p024",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "images": [
+      {"file": "e2_1.jpeg", "price": "29999"},
+      {"file": "e2_2.jpeg", "price": "30999"},
+      {"file": "e2_3.jpeg", "price": "28999"},
+      {"file": "e2_4.jpeg", "price": "29999"}
+    ],
+    "tags": ["smartphone", "mobile", "phone", "electronics"]
+  },
+  {
+    "id": "p025",
+    "name": "Headphones",
+    "category": "Electronics",
+    "images": [
+      {"file": "e3_1.jpeg", "price": "5999"},
+      {"file": "e3_2.jpeg", "price": "6499"},
+      {"file": "e3_3.jpeg", "price": "5999"}
+    ],
+    "tags": ["headphones", "audio", "over-ear", "music"]
+  },
+  {
+    "id": "p026",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "images": [
+      {"file": "e4_1.jpeg", "price": "3999"},
+      {"file": "e4_2.jpeg", "price": "4299"},
+      {"file": "e4_3.jpeg", "price": "3799"}
+    ],
+    "tags": ["earbuds", "wireless", "audio", "bluetooth"]
+  },
+  {
+    "id": "p027",
+    "name": "Smartwatch",
+    "category": "Electronics",
+    "images": [
+      {"file": "e5_1.jpeg", "price": "6999"},
+      {"file": "e5_2.jpeg", "price": "7299"},
+      {"file": "e5_3.jpeg", "price": "7499"},
+      {"file": "e5_4.jpeg", "price": "6999"}
+    ],
+    "tags": ["smartwatch", "wearable", "fitness", "electronics"]
+  },
+  {
+    "id": "p028",
+    "name": "DSLR Camera",
+    "category": "Electronics",
+    "images": [
+      {"file": "e6_1.jpeg", "price": "35999"},
+      {"file": "e6_2.jpeg", "price": "36999"},
+      {"file": "e6_3.jpeg", "price": "34999"}
+    ],
+    "tags": ["camera", "dslr", "photography", "lens"]
+  },
+  {
+    "id": "p029",
+    "name": "Tablet",
+    "category": "Electronics",
+    "images": [
+      {"file": "e7_1.jpeg", "price": "24999"},
+      {"file": "e7_2.jpeg", "price": "23999"},
+      {"file": "e7_3.jpeg", "price": "25999"}
+    ],
+    "tags": ["tablet", "ipad", "screen", "electronics"]
+  },
+  {
+    "id": "p030",
+    "name": "Power Bank",
+    "category": "Electronics",
+    "images": [
+      {"file": "e8_1.jpeg", "price": "1999"},
+      {"file": "e8_2.jpeg", "price": "1899"},
+      {"file": "e8_3.jpeg", "price": "2099"}
+    ],
+    "tags": ["power-bank", "charger", "battery", "portable"]
+  },
+  {
+    "id": "p031",
+    "name": "School Backpack",
+    "category": "Bags & Travel",
+    "images": [
+      {"file": "tb1_1.jpeg", "price": "1299"},
+      {"file": "tb1_2.jpeg", "price": "1349"},
+      {"file": "tb1_3.jpeg", "price": "1399"},
+      {"file": "tb1_4.jpeg", "price": "1299"}
+    ],
+    "tags": ["backpack", "school", "bag", "travel"]
+  },
+  {
+    "id": "p032",
+    "name": "Leather Handbag",
+    "category": "Bags & Travel",
+    "images": [
+      {"file": "tb2_1.jpeg", "price": "2199"},
+      {"file": "tb2_2.jpeg", "price": "2299"},
+      {"file": "tb2_3.jpeg", "price": "2399"},
+      {"file": "tb2_4.jpeg", "price": "2199"}
+    ],
+    "tags": ["handbag", "leather", "women", "bag"]
+  },
+  {
+    "id": "p033",
+    "name": "Travel Suitcase",
+    "category": "Bags & Travel",
+    "images": [
+      {"file": "tb3_1.jpeg", "price": "4999"},
+      {"file": "tb3_2.jpeg", "price": "5199"},
+      {"file": "tb3_3.jpeg", "price": "4899"}
+    ],
+    "tags": ["suitcase", "luggage", "travel", "bag"]
+  },
+  {
+    "id": "p034",
+    "name": "Gym Duffel Bag",
+    "category": "Bags & Travel",
+    "images": [
+      {"file": "tb4_1.jpeg", "price": "1799"},
+      {"file": "tb4_2.jpeg", "price": "1899"},
+      {"file": "tb4_3.jpeg", "price": "1699"}
+    ],
+    "tags": ["duffel", "gym", "sports", "bag"]
+  },
+  {
+    "id": "p035",
+    "name": "Coffee Mug",
+    "category": "Home & Kitchen",
+    "images": [
+      {"file": "hk1_1.jpeg", "price": "299"},
+      {"file": "hk1_2.jpeg", "price": "349"},
+      {"file": "hk1_3.jpeg", "price": "299"},
+      {"file": "hk1_4.jpeg", "price": "399"},
+      {"file": "hk1_5.jpeg", "price": "399"}
+    ],
+    "tags": ["mug", "coffee", "cup", "kitchen"]
+  },
+  {
+    "id": "p036",
+    "name": "Plate Set",
+    "category": "Home & Kitchen",
+    "images": [
+      {"file": "hk2_1.jpeg", "price": "999"},
+      {"file": "hk2_2.jpeg", "price": "1049"},
+      {"file": "hk2_3.jpeg", "price": "949"},
+      {"file": "hk2_4.jpeg", "price": "999"},
+      {"file": "hk2_5.jpeg", "price": "1099"}],
+    "tags": ["plates", "dinnerware", "kitchen", "ceramic"]
+  },
+  {
+    "id": "p037",
+    "name": "Chair",
+    "category": "Home & Kitchen",
+    "images": [
+      {"file": "hk3_1.jpeg", "price": "8999"},
+      {"file": "hk3_2.jpeg", "price": "9399"},
+      {"file": "hk3_3.jpeg", "price": "8799"},
+      {"file": "hk3_4.jpeg", "price": "8999"},
+      {"file": "hk3_5.jpeg", "price": "9499"}
+    ],
+    "tags": ["chair", "furniture", "wood", "home"]
+  },
+  {
+    "id": "p038",
+    "name": "Table Lamp",
+    "category": "Home & Kitchen",
+    "images": [
+      {"file": "hk4_1.jpeg", "price": "1499"},
+      {"file": "hk4_2.jpeg", "price": "1599"},
+      {"file": "hk4_3.jpeg", "price": "1399"},
+      {"file": "hk4_4.jpeg", "price": "1499"},
+      {"file": "hk4_5.jpeg", "price": "1599"}
+    ],
+    "tags": ["lamp", "lighting", "home", "decor"]
+  },
+  {
+    "id": "p039",
+    "name": "Clock",
+    "category": "Home & Kitchen",
+    "images": [
+      {"file": "hk5_1.jpeg", "price": "899"},
+      {"file": "hk5_2.jpeg", "price": "949"},
+      {"file": "hk5_3.jpeg", "price": "849"},
+      {"file": "hk5_4.jpeg", "price": "899"},
+      {"file": "hk5_5.jpeg", "price": "999"}
+    ],
+    "tags": ["clock", "wall-clock", "home", "decor"]
+  },
+  {
+    "id": "p040",
+    "name": "Pillow",
+    "category": "Home & Kitchen",
+    "images": [
+      {"file": "hk6_1.jpeg", "price": "499"},
+      {"file": "hk6_2.jpeg", "price": "549"},
+      {"file": "hk6_3.jpeg", "price": "449"}
+    ],
+    "tags": ["pillow", "cushion", "home", "decor"]
+  },
+  {
+    "id": "p041",
+    "name": "Perfume",
+    "category": "Beauty & Personal Care",
+    "images": [
+      {"file": "B1_1.jpeg", "price": "1299"},
+      {"file": "B1_2.jpeg", "price": "1399"},
+      {"file": "B1_3.jpeg", "price": "1199"},
+      {"file": "B1_4.jpeg", "price": "1299"},
+      {"file": "B1_5.jpeg", "price": "1399"}
+    ],
+    "tags": ["perfume", "fragrance", "cosmetic", "bottle"]
+  },
+  {
+    "id": "p042",
+    "name": "Lipstick",
+    "category": "Beauty & Personal Care",
+    "images": [
+      {"file": "B2_1.jpeg", "price": "699"},
+      {"file": "B2_2.jpeg", "price": "749"},
+      {"file": "B2_3.jpeg", "price": "649"},
+      {"file": "B2_4.jpeg", "price": "699"},
+      {"file": "B2_5.jpeg", "price": "749"}
+    ],
+    "tags": ["lipstick", "makeup", "cosmetic", "beauty"]
+  },
+  {
+    "id": "p043",
+    "name": "Shampoo",
+    "category": "Beauty & Personal Care",
+    "images": [
+      {"file": "B1_1.jpeg", "price": "799"},
+      {"file": "B1_2.jpeg", "price": "849"},
+      {"file": "B1_3.jpeg", "price": "749"},
+      {"file": "B1_4.jpeg", "price": "799"},
+      {"file": "B1_5.jpeg", "price": "849"}
+    ],
+    "tags": ["shampoo", "haircare", "bottle", "personal-care"]
+  },
+  {
+    "id": "p044",
+    "name": "Face Cream",
+    "category": "Beauty & Personal Care",
+    "images": [
+      {"file": "B4_1.jpeg", "price": "1199"},
+      {"file": "B4_2.jpeg", "price": "1299"},
+      {"file": "B4_3.jpeg", "price": "1099"},
+      {"file": "B4_4.jpeg", "price": "1199"},
+      {"file": "B4_5.jpeg", "price": "1299"}
+    ],
+    "tags": ["face-cream", "skincare", "moisturizer", "cosmetic"]
+  },
+  {
+    "id": "p045",
+    "name": "Game Controller",
+    "category": "Gadgets & Misc",
+    "images": [
+      {"file": "gad1_1.jpeg", "price": "4499"},
+      {"file": "gad1_2.jpeg", "price": "4599"},
+      {"file": "gad1_3.jpeg", "price": "4399"},
+      {"file": "gad1_4.jpeg", "price": "4499"}
+    ],
+    "tags": ["controller", "gamepad", "gaming", "accessory"]
+  },
+  {
+    "id": "p046",
+    "name": "Bluetooth Speaker",
+    "category": "Gadgets & Misc",
+    "images": [
+      {"file": "Gad2_1.jpeg", "price": "2999"},
+      {"file": "Gad2_2.jpeg", "price": "3199"},
+      {"file": "Gad2_3.jpeg", "price": "2799"},
+      {"file": "Gad2_4.jpeg", "price": "2999"},
+      {"file": "Gad2_5.jpeg", "price": "3199"}
+    ],
+    "tags": ["speaker", "bluetooth", "audio", "portable"]
+  },
+  {
+    "id": "p047",
+    "name": "Smart TV Remote",
+    "category": "Gadgets & Misc",
+    "images": [
+      {"file": "Gad3_1.jpeg", "price": "699"},
+      {"file": "Gad3_2.jpeg", "price": "749"},
+      {"file": "Gad3_3.jpeg", "price": "649"},
+      {"file": "Gad3_4.jpeg", "price": "699"},
+      {"file": "Gad3_5.jpeg", "price": "749"}
+    ],
+    "tags": ["remote", "tv", "accessory", "electronics"]
+  },
+  {
+    "id": "p048",
+    "name": "Drone",
+    "category": "Gadgets & Misc",
+    "images": [
+      {"file": "Gad4_1.jpeg", "price": "14999"},
+      {"file": "Gad4_2.jpeg", "price": "15999"},
+      {"file": "Gad4_3.jpeg", "price": "13999"},
+      {"file": "Gad4_4.jpeg", "price": "14999"},
+      {"file": "Gad4_5.jpeg", "price": "15999"}
+    ],
+    "tags": ["drone", "aerial", "quad-copter", "gadget"]
+  },
+  {
+    "id": "p049",
+    "name": "USB Flash Drive",
+    "category": "Gadgets & Misc",
+    "images": [
+      {"file": "Gad5_1.jpeg", "price": "499"},
+      {"file": "Gad5_2.jpeg", "price": "599"},
+      {"file": "Gad5_3.jpeg", "price": "449"},
+      {"file": "Gad5_4.jpeg", "price": "499"},  
+      {"file": "Gad5_5.jpeg", "price": "599"}
+    ],
+    "tags": ["usb", "flash-drive", "storage", "gadget"]
+  },
+  {
+    "id": "p050",
+    "name": "Portable Projector",
+    "category": "Gadgets & Misc",
+    "images": [
+      {"file": "Gad6_1.jpeg", "price": "9999"},
+      {"file": "Gad6_2.jpeg", "price": "10499"},
+      {"file": "Gad6_3.jpeg", "price": "9499"},
+      {"file": "Gad6_4.jpeg", "price": "9999"},
+      {"file": "Gad6_5.jpeg", "price": "10999"}
+    ],
+    "tags": ["projector", "portable", "home-theater", "gadget"]
+  }
+]

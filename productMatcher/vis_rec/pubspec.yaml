@@ -1,0 +1,32 @@
+name: vis_rec
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP for backend calls
+  http: ^0.13.6
+
+  # Image picking (works on Android/iOS). For web we will use URL input fallback.
+  image_picker: ^0.8.7+3
+
+  # Friendly cached image display for network images
+  cached_network_image: ^3.2.3
+
+  # The following adds the Cupertino Icons font to your application.
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

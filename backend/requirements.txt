@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pillow
+requests
+numpy
+scikit-learn
+sentence-transformers
+python-multipart
+aiohttp

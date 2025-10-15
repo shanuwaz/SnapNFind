@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/products/product_embeddings.npy
+data/products/image_embeddings.npy
+data/products/image_index.json
