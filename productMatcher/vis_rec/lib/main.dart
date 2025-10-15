@@ -195,7 +195,7 @@ class _HomePageState extends State<HomePage> {
                           _topKController.text = "6";
                         });
                       },
-                      child: const Text("Reset"),
+                      child: const Text("Reset..."),
                     ),
                   ])
                 ]),
