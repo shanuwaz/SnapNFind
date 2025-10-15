@@ -428,7 +428,7 @@ class _HomePageState extends State<HomePage> {
                   return const LinearGradient(colors: [Color(0xFFE91E63), Color(0xFF7C4DFF)]).createShader(Rect.fromLTWH(0, 0, bounds.width, bounds.height));
                 },
                 child: const Text(
-                  'SnapNFind',
+                  'Snap_N_Find',
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.w900,
